@@ -1,0 +1,77 @@
+{
+  "book_id": "modernist-american-lyric-poetry-individual-collective",
+  "title": "The Method of Salvage",
+  "tagline": "In a city of noise and manifestos, a poet maps the silent alleys of the mind, seeking a truth that could save or shatter him.",
+  "target_words": 75176,
+  "actual_words": 75176,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Cartography of Consciousness",
+    "The Lyric Self in an Epic Age",
+    "The Tension Between Silence and Noise",
+    "The Search for Meaning in Fragments"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Color of a Cold Bottle",
+      "words": 6264
+    },
+    {
+      "ch": 2,
+      "title": "A White Rectangle of Threat",
+      "words": 6264
+    },
+    {
+      "ch": 3,
+      "title": "The Cartographer's Seal",
+      "words": 6264
+    },
+    {
+      "ch": 4,
+      "title": "A Triangulation of Clouds",
+      "words": 6264
+    },
+    {
+      "ch": 5,
+      "title": "The City is Not a Metaphor",
+      "words": 6264
+    },
+    {
+      "ch": 6,
+      "title": "The Silence of a Vacuum",
+      "words": 6264
+    },
+    {
+      "ch": 7,
+      "title": "The Tang of Fear-Sweat",
+      "words": 6264
+    },
+    {
+      "ch": 8,
+      "title": "A Stalled Film, Neon-Streaked",
+      "words": 6264
+    },
+    {
+      "ch": 9,
+      "title": "The Method of Salvage",
+      "words": 6264
+    },
+    {
+      "ch": 10,
+      "title": "A Different Species of Silence",
+      "words": 6264
+    },
+    {
+      "ch": 11,
+      "title": "The Ritual of Vinegar-Water",
+      "words": 6264
+    },
+    {
+      "ch": 12,
+      "title": "The Patient Page",
+      "words": 6264
+    }
+  ]
+}
